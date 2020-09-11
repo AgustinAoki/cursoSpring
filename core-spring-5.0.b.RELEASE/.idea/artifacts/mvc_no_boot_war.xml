@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvc-no-boot:war">
+    <output-path>$PROJECT_DIR$/mvc-no-boot/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mvc-no-boot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mvc-no-boot-5.0.a.RELEASE.war">
+      <element id="artifact" artifact-name="mvc-no-boot:war exploded" />
+    </root>
+  </artifact>
+</component>

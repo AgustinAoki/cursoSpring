@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ms-accounts-server-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accounts-server-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accounts-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accounts-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-discovery-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-web-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-ws/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

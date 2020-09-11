@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test" />
+        <module name="aop" />
+        <module name="jdbc" />
+        <module name="ms-accounts-server-solution" />
+        <module name="annotations-solution" />
+        <module name="security-solution" />
+        <module name="ms-accounts-server" />
+        <module name="spring-data-jpa" />
+        <module name="tx" />
+        <module name="xml-di" />
+        <module name="jmx" />
+        <module name="mvc-no-boot" />
+        <module name="ms-web-client" />
+        <module name="jms" />
+        <module name="mvc-solution" />
+        <module name="rewards-common" />
+        <module name="javaconfig-dependency-injection" />
+        <module name="jpa-solution" />
+        <module name="aop-solution" />
+        <module name="ms-discovery-server" />
+        <module name="rest-ws" />
+        <module name="xml-di-solution" />
+        <module name="jms-solution" />
+        <module name="jmx-solution" />
+        <module name="test-solution" />
+        <module name="ms-web-client-solution" />
+        <module name="jpa" />
+        <module name="mvc" />
+        <module name="rest-ws-solution" />
+        <module name="xml-dependency-injection-best-practices" />
+        <module name="mvc-no-boot-solution" />
+        <module name="javaconfig-dependency-injection-solution" />
+        <module name="spring-data-jpa-solution" />
+        <module name="jdbc-solution" />
+        <module name="annotations" />
+        <module name="security" />
+        <module name="ms-discovery-server-solution" />
+        <module name="xml-dependency-injection-best-practices-solution" />
+        <module name="spring-intro" />
+        <module name="reactive-spring" />
+        <module name="spring-intro-solution" />
+        <module name="rewards-db" />
+        <module name="reactive-spring-solution" />
+        <module name="tx-solution" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotations" target="1.5" />
+      <module name="annotations-solution" target="1.5" />
+      <module name="aop" target="1.5" />
+      <module name="aop-solution" target="1.5" />
+      <module name="javaconfig-dependency-injection" target="1.5" />
+      <module name="javaconfig-dependency-injection-solution" target="1.5" />
+      <module name="jdbc" target="1.5" />
+      <module name="jdbc-solution" target="1.5" />
+      <module name="jms" target="1.5" />
+      <module name="jms-solution" target="1.5" />
+      <module name="jmx" target="1.5" />
+      <module name="jmx-solution" target="1.5" />
+      <module name="jpa" target="1.5" />
+      <module name="jpa-solution" target="1.5" />
+      <module name="ms-accounts-server" target="1.5" />
+      <module name="ms-accounts-server-solution" target="1.5" />
+      <module name="ms-discovery-server" target="1.5" />
+      <module name="ms-discovery-server-solution" target="1.5" />
+      <module name="ms-web-client" target="1.5" />
+      <module name="ms-web-client-solution" target="1.5" />
+      <module name="mvc" target="1.5" />
+      <module name="mvc-no-boot" target="1.5" />
+      <module name="mvc-no-boot-solution" target="1.5" />
+      <module name="mvc-solution" target="1.5" />
+      <module name="parentProject" target="1.5" />
+      <module name="reactive-spring" target="1.5" />
+      <module name="reactive-spring-solution" target="1.5" />
+      <module name="rest-ws" target="1.5" />
+      <module name="rest-ws-solution" target="1.5" />
+      <module name="rewards-common" target="1.5" />
+      <module name="rewards-db" target="1.5" />
+      <module name="security" target="1.5" />
+      <module name="security-solution" target="1.5" />
+      <module name="spring-data-jpa" target="1.5" />
+      <module name="spring-data-jpa-solution" target="1.5" />
+      <module name="spring-intro" target="1.5" />
+      <module name="spring-intro-solution" target="1.5" />
+      <module name="test" target="1.5" />
+      <module name="test-solution" target="1.5" />
+      <module name="tx" target="1.5" />
+      <module name="tx-solution" target="1.5" />
+      <module name="xml-dependency-injection-best-practices" target="1.5" />
+      <module name="xml-dependency-injection-best-practices-solution" target="1.5" />
+      <module name="xml-di" target="1.5" />
+      <module name="xml-di-solution" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

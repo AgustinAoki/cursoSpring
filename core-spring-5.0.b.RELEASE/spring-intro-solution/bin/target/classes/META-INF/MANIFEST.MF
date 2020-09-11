@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-intro-solution
+Implementation-Version: 5.0.a.RELEASE
+Built-By: paulchapman
+Implementation-Vendor-Id: io.pivotal.education.core-spring
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/parentProject/spring-intro-solution/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Education
+
